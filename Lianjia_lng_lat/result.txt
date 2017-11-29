@@ -1,0 +1,63 @@
+{"room_link": "http://sh.lianjia.com/zufang/shz4305029.html", "room_shape": "1室0厅", "room_size": "29平", "room_detail": "甘泉二村，实地看房，一链倾城，出行方便", "price": "2500"}
+{"room_link": "http://sh.lianjia.com/zufang/shz4097657.html", "room_shape": "1室1厅", "room_size": "40平", "room_detail": "桃浦十村，温馨之家，采光好，好房好心情", "price": "2500"}
+{"room_link": "http://sh.lianjia.com/zufang/shzr100041498.html", "room_shape": "5室1厅", "room_size": "167平", "room_detail": "上海国际包装印刷城5居室 03卧", "price": "1660"}
+{"room_link": "http://sh.lianjia.com/zufang/shzr100027788.html", "room_shape": "3室1厅", "room_size": "80平", "room_detail": "曹杨家园3居室 02卧", "price": "2490"}
+{"room_link": "http://sh.lianjia.com/zufang/shzr100012423.html", "room_shape": "4室1厅", "room_size": "145平", "room_detail": "上海国际包装印刷城4居室 01卧", "price": "2430"}
+{"room_link": "http://sh.lianjia.com/zufang/shzr100044995.html", "room_shape": "3室1厅", "room_size": "111平", "room_detail": "中远两湾城3居室 02卧", "price": "2490"}
+{"room_link": "http://sh.lianjia.com/zufang/shzr100044940.html", "room_shape": "3室1厅", "room_size": "71平", "room_detail": "金原新苑3居室 03卧", "price": "2230"}
+{"room_link": "http://sh.lianjia.com/zufang/shzr100044939.html", "room_shape": "3室1厅", "room_size": "71平", "room_detail": "金原新苑3居室 02卧", "price": "1930"}
+{"room_link": "http://sh.lianjia.com/zufang/shzr100044938.html", "room_shape": "3室1厅", "room_size": "71平", "room_detail": "金原新苑3居室 01卧", "price": "2330"}
+{"room_link": "http://sh.lianjia.com/zufang/shzr100044854.html", "room_shape": "3室1厅", "room_size": "76平", "room_detail": "车站新村（普陀）3居室 02卧", "price": "1960"}
+{"room_shape": "1室0厅", "room_size": "29平", "price": "2500", "room_detail": "甘泉二村，实地看房，一链倾城，出行方便", "room_link": "http://sh.lianjia.com/zufang/shz4305029.html"}
+{"room_shape": "1室1厅", "room_size": "40平", "price": "2500", "room_detail": "桃浦十村，温馨之家，采光好，好房好心情", "room_link": "http://sh.lianjia.com/zufang/shz4097657.html"}
+{"room_size": "145平", "price": "2360", "room_link": "http://sh.lianjia.com/zufang/shzr100006388.html", "room_shape": "4室1厅", "room_detail": "上海国际包装印刷城4居室 05卧"}
+{"room_shape": "5室1厅", "room_size": "167平", "price": "1660", "room_detail": "上海国际包装印刷城5居室 03卧", "room_link": "http://sh.lianjia.com/zufang/shzr100041498.html"}
+{"room_shape": "3室1厅", "room_size": "80平", "price": "2490", "room_detail": "曹杨家园3居室 02卧", "room_link": "http://sh.lianjia.com/zufang/shzr100027788.html"}
+居室 06卧"}
+{"room_shape": "4室1厅", "room_size": "145平", "price": "2430", "room_detail": "上海国际包装印刷城4居室 01卧", "room_link": "http://sh.lianjia.com/zufang/shzr100012423.html"}
+清新，交通方便"}
+{"room_shape": "3室1厅", "room_size": "111平", "price": "2490", "room_detail": "中远两湾城3居室 02卧", "room_link": "http://sh.lianjia.com/zufang/shzr100044995.html"}
+阳光房，温馨一室"}
+{"room_size": "28平", "price": "2500", "room_link": "http://sh.lianjia.com/zufang/shz4331072.html", "room_shape": "1室1厅", "room_detail": "新黄小区，新鲜上架，交通便利，链家好房"}
+{"room_shape": "3室1厅", "room_size": "71平", "price": "1930", "room_detail": "金原新苑3居室 02卧", "room_link": "http://sh.lianjia.com/zufang/shzr100044939.html"}
+{"room_shape": "3室1厅", "room_size": "71平", "price": "2330", "room_detail": "金原新苑3居室 01卧", "room_link": "http://sh.lianjia.com/zufang/shzr100044938.html"}
+}
+{"room_shape": "3室1厅", "room_size": "76平", "price": "1960", "room_detail": "车站新村（普陀）3居室 02卧", "room_link": "http://sh.lianjia.com/zufang/shzr100044854.html"}
+地铁"}
+{"room_size": "109平", "price": "2160", "room_link": "http://sh.lianjia.com/zufang/shz4275836.html", "room_shape": "1室1厅", "room_detail": "巴黎之春，一链倾城，上下楼方便，地铁沿线"}
+{"room_shape": "3室1厅", "room_size": "88平", "price": "2060", "room_detail": "泰宸苑3居室 02卧", "room_link": "http://sh.lianjia.com/zufang/shzr100044788.html"}
+{"room_size": "50平", "price": "1530", "room_link": "http://sh.lianjia.com/zufang/shz4220735.html", "room_shape": "2室0厅", "room_detail": "放心好房，低区出入方便，简约二室，高清实拍"}
+{"room_size": "174平", "price": "2430", "room_link": "http://sh.lianjia.com/zufang/shz4220300.html", "room_shape": "1室1厅", "room_detail": "中远两湾城，真实在租，附近有地铁，温馨之家"}
+{"room_shape": "3室1厅", "room_size": "84平", "price": "2160", "room_detail": "泰宸苑3居室 02卧", "room_link": "http://sh.lianjia.com/zufang/shzr100044322.html"}
+��，光线非常好，出行方便"}
+{"room_shape": "3室1厅", "room_size": "85平", "price": "2490", "room_detail": "金沙雅苑（三期）3居室 02卧", "room_link": "http://sh.lianjia.com/zufang/shzr100044275.html"}
+��南北通"}
+{"room_shape": "4室1厅", "room_size": "114平", "price": "2230", "room_detail": "桃浦新家园4居室 05卧", "room_link": "http://sh.lianjia.com/zufang/shzr100043952.html"}
+��室 05卧"}
+{"room_shape": "4室1厅", "room_size": "114平", "price": "1690", "room_detail": "桃浦新家园4居室 03卧", "room_link": "http://sh.lianjia.com/zufang/shzr100043951.html"}
+��室 03卧"}
+{"room_size": "106平", "price": "2430", "room_link": "http://sh.lianjia.com/zufang/shzr100044434.html", "room_shape": "3室1厅", "room_detail": "祥和星宇花园（公寓）3居室 03卧"}
+{"room_size": "106平", "price": "1890", "room_link": "http://sh.lianjia.com/zufang/shzr100044433.html", "room_shape": "3室1厅", "room_detail": "祥和星宇花园（公寓）3居室 02卧"}
+{"room_size": "106平", "price": "2260", "room_link": "http://sh.lianjia.com/zufang/shzr100044432.html", "room_shape": "3室1厅", "room_detail": "祥和星宇花园（公寓）3居室 01卧"}
+{"room_shape": "4室1厅", "room_size": "90平", "price": "2190", "room_detail": "桃浦四村易居紫荆苑4居室 05卧", "room_link": "http://sh.lianjia.com/zufang/shzr100042428.html"}
+{"room_size": "92平", "price": "1730", "room_link": "http://sh.lianjia.com/zufang/shzr100044405.html", "room_shape": "3室1厅", "room_detail": "阳光威尼斯（一期）3居室 02卧"}
+{"room_shape": "4室1厅", "price": "1790", "room_link": "http://sh.lianjia.com/zufang/shzr100042427.html", "room_size": "90平", "room_detail": "桃浦四村易居紫荆苑4居室 03卧"}
+{"room_shape": "3室1厅", "price": "2190", "room_link": "http://sh.lianjia.com/zufang/shzr100042421.html", "room_size": "87平", "room_detail": "泰宸苑3居室 02卧"}
+{"room_shape": "3室1厅", "price": "2290", "room_link": "http://sh.lianjia.com/zufang/shzr100042408.html", "room_size": "109平", "room_detail": "建德花园郁金香苑（公寓）3居室 02卧"}
+{"room_shape": "4室1厅", "price": "2160", "room_link": "http://sh.lianjia.com/zufang/shzr100040610.html", "room_size": "136平", "room_detail": "金鼎花苑4居室 03卧"}
+{"room_shape": "4室2厅", "price": "1860", "room_link": "http://sh.lianjia.com/zufang/shzr100040481.html", "room_size": "94平", "room_detail": "桃浦九村4居室 01卧"}
+{"room_shape": "3室1厅", "price": "2360", "room_link": "http://sh.lianjia.com/zufang/shzr100038412.html", "room_size": "98平", "room_detail": "巴黎之春3居室 02卧"}
+{"room_shape": "3室1厅", "price": "2090", "room_link": "http://sh.lianjia.com/zufang/shzr100036028.html", "room_size": "67平", "room_detail": "桃浦七村雪松苑3居室 01卧"}
+{"room_shape": "3室1厅", "price": "2160", "room_link": "http://sh.lianjia.com/zufang/shzr100035756.html", "room_size": "83平", "room_detail": "新长征花苑3居室 02卧"}
+{"room_shape": "4室2厅", "price": "1960", "room_link": "http://sh.lianjia.com/zufang/shzr100031454.html", "room_size": "121平", "room_detail": "桃浦新家园4居室 02卧"}
+{"room_shape": "4室1厅", "price": "1960", "room_link": "http://sh.lianjia.com/zufang/shzr100027574.html", "room_size": "121平", "room_detail": "桃浦新家园4居室 02卧"}
+{"room_shape": "4室1厅", "price": "1990", "room_link": "http://sh.lianjia.com/zufang/shzr100027098.html", "room_size": "121平", "room_detail": "金沙嘉年华4居室 03卧"}
+{"room_shape": "3室1厅", "price": "2290", "room_link": "http://sh.lianjia.com/zufang/shzr100025345.html", "room_size": "86平", "room_detail": "桃浦九村3居室 03卧"}
+{"room_shape": "3室1厅", "price": "2360", "room_link": "http://sh.lianjia.com/zufang/shzr100023003.html", "room_size": "85平", "room_detail": "桃浦九村3居室 03卧"}
+{"room_shape": "3室1厅", "price": "2090", "room_link": "http://sh.lianjia.com/zufang/shzr100021869.html", "room_size": "96平", "room_detail": "建德花园牡丹苑3居室 02卧"}
+{"room_shape": "3室1厅", "price": "1830", "room_link": "http://sh.lianjia.com/zufang/shzr100020996.html", "room_size": "73平", "room_detail": "桃浦二村永汇新苑3居室 02卧"}
+{"room_shape": "3室1厅", "price": "2330", "room_link": "http://sh.lianjia.com/zufang/shzr100020606.html", "room_size": "81平", "room_detail": "金江家园3居室 01卧"}
+{"room_shape": "4室1厅", "price": "2260", "room_link": "http://sh.lianjia.com/zufang/shzr100014350.html", "room_size": "124平", "room_detail": "金沙雅苑（四期）4居室 03卧"}
+{"room_shape": "3室1厅", "price": "2130", "room_link": "http://sh.lianjia.com/zufang/shzr100013999.html", "room_size": "92平", "room_detail": "曹杨五月天3居室 02卧"}
+{"room_shape": "3室1厅", "price": "2160", "room_link": "http://sh.lianjia.com/zufang/shzr100013704.html", "room_size": "79平", "room_detail": "牡丹新苑3居室 02卧"}
+{"room_shape": "3室1厅", "price": "2490", "room_link": "http://sh.lianjia.com/zufang/shzr100010910.html", "room_size": "97平", "room_detail": "金沙雅苑（四期）3居室 02卧"}

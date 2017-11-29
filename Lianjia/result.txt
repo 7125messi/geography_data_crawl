@@ -1,0 +1,67 @@
+{"room_size": "94平", "room_detail": "桃浦九村4居室 01卧", "price": "1860", "room_shape": "4室2厅"}
+{"room_size": "98平", "room_detail": "巴黎之春3居室 02卧", "price": "2360", "room_shape": "3室1厅"}
+{"room_size": "67平", "room_detail": "桃浦七村雪松苑3居室 01卧", "price": "2090", "room_shape": "3室1厅"}
+{"room_size": "83平", "room_detail": "新长征花苑3居室 02卧", "price": "2160", "room_shape": "3室1厅"}
+{"room_size": "121平", "room_detail": "桃浦新家园4居室 02卧", "price": "1960", "room_shape": "4室2厅"}
+{"room_size": "121平", "room_detail": "桃浦新家园4居室 02卧", "price": "1960", "room_shape": "4室1厅"}
+{"room_size": "86平", "room_detail": "桃浦九村3居室 03卧", "price": "2290", "room_shape": "3室1厅"}
+{"room_detail": "愉景华庭，人气房源，高区阳光房，温馨一室", "room_shape": "1室1厅", "price": "2160", "room_size": "98平"}
+{"room_size": "85平", "room_detail": "桃浦九村3居室 03卧", "price": "2360", "room_shape": "3室1厅"}
+{"room_detail": "新黄小区，温馨一室，交通方便，链家好房", "room_shape": "1室1厅", "price": "2500", "room_size": "28平"}
+{"room_size": "96平", "room_detail": "建德花园牡丹苑3居室 02卧", "price": "2090", "room_shape": "3室1厅"}
+{"room_detail": "真源小区3居室 01卧", "room_shape": "3室1厅", "price": "2260", "room_size": "83平"}
+{"room_size": "73平", "room_detail": "桃浦二村永汇新苑3居室 02卧", "price": "1830", "room_shape": "3室1厅"}
+{"room_detail": "清涧二街坊2居室 02卧", "room_shape": "2室1厅", "price": "2290", "room_size": "62平"}
+{"room_size": "81平", "room_detail": "金江家园3居室 01卧", "price": "2330", "room_shape": "3室1厅"}
+{"room_size": "123平", "room_detail": "万里真欣园4居室 05卧", "price": "2360", "room_shape": "4室1厅"}
+, "room_size": "16平"}
+{"room_size": "124平", "room_detail": "金沙雅苑（四期）4居室 03卧", "price": "2260", "room_shape": "4室1厅"}
+ize": "109平"}
+{"room_size": "92平", "room_detail": "曹杨五月天3居室 02卧", "price": "2130", "room_shape": "3室1厅"}
+{"room_detail": "放心好房，低区出入方便，简约二室，高清实拍", "room_shape": "2室0厅", "price": "1530", "room_size": "50平"}
+{"room_detail": "中远两湾城，小户型，好房好心情，光线充足", "room_shape": "1室1厅", "price": "2430", "room_size": "174平"}
+{"room_detail": "一室小户型，链家房源，视野很好，近地铁", "room_shape": "1室1厅", "price": "2490", "room_size": "106平"}
+{"room_size": "145平", "room_detail": "上海国际包装印刷城4居室 05卧", "price": "2360", "room_shape": "4室1厅"}
+ize": "138平"}
+{"room_detail": "祥和星宇花园（公寓）3居室 03卧", "room_shape": "3室1厅", "price": "2430", "room_size": "106平"}
+{"room_size": "167平", "room_detail": "上海国际包装印刷城5居室 06卧", "price": "2160", "room_shape": "5室1厅"}
+}
+{"room_detail": "祥和星宇花园（公寓）3居室 01卧", "room_shape": "3室1厅", "price": "2260", "room_size": "106平"}
+{"room_size": "50平", "room_detail": "桃浦二村永汇新苑，有爱有家，空气清新，交通方便", "price": "2090", "room_shape": "1室1厅"}
+{"room_detail": "阳光威尼斯（一期）3居室 02卧", "room_shape": "3室1厅", "price": "1730", "room_size": "92平"}
+{"room_detail": "看房方便，生活很便利，好房待租，人气房源", "price": "2500", "room_size": "29平", "room_shape": "1室0厅"}
+{"room_detail": "祥和名邸（公寓）4居室 02卧", "room_shape": "4室1厅", "price": "2190", "room_size": "135平"}
+{"room_detail": "桃浦十村，温馨之家，采光好，好房好心情", "price": "2500", "room_size": "40平", "room_shape": "1室1厅"}
+{"room_detail": "海棠苑3居室 02卧", "room_shape": "3室1厅", "price": "2490", "room_size": "83平"}
+{"room_detail": "上海国际包装印刷城5居室 03卧", "price": "1660", "room_size": "167平", "room_shape": "5室1厅"}
+{"room_detail": "海棠苑3居室 01卧", "room_shape": "3室1厅", "price": "2360", "room_size": "83平"}
+{"room_detail": "曹杨家园3居室 02卧", "price": "2490", "room_size": "80平", "room_shape": "3室1厅"}
+{"room_detail": "祥和名邸（公寓）4居室 02卧", "room_shape": "4室1厅", "price": "2430", "room_size": "133平"}
+{"room_detail": "上海国际包装印刷城4居室 01卧", "price": "2430", "room_size": "145平", "room_shape": "4室1厅"}
+{"room_detail": "振光大厦4居室 05卧", "room_shape": "4室1厅", "price": "1990", "room_size": "124平"}
+{"room_detail": "车站新村（普陀）3居室 02卧", "price": "1960", "room_size": "76平", "room_shape": "3室1厅"}
+{"room_detail": "东旺公寓4居室 01卧", "room_shape": "4室1厅", "price": "2430", "room_size": "133平"}
+{"room_detail": "上海星港4居室 03卧", "price": "2460", "room_size": "126平", "room_shape": "4室1厅"}
+{"room_detail": "泰宸苑3居室 02卧", "price": "2060", "room_size": "88平", "room_shape": "3室1厅"}
+{"room_detail": "桃浦二村永汇新苑3居室 02卧", "price": "1860", "room_size": "78平", "room_shape": "3室1厅"}
+{"room_detail": "泰宸苑3居室 02卧", "price": "2160", "room_size": "84平", "room_shape": "3室1厅"}
+{"room_detail": "金沙雅苑（三期）3居室 02卧", "price": "2490", "room_size": "85平", "room_shape": "3室1厅"}
+{"room_detail": "桃浦新家园4居室 05卧", "price": "2230", "room_size": "114平", "room_shape": "4室1厅"}
+{"room_detail": "桃浦新家园4居室 03卧", "price": "1690", "room_size": "114平", "room_shape": "4室1厅"}
+{"room_detail": "桃浦新家园4居室 01卧", "price": "2490", "room_size": "114平", "room_shape": "4室1厅"}
+{"room_detail": "达安春之声4居室 02卧", "price": "2330", "room_size": "118平", "room_shape": "4室1厅"}
+{"room_detail": "桃浦四村易居紫荆苑4居室 05卧", "price": "2190", "room_size": "90平", "room_shape": "4室1厅"}
+{"room_detail": "桃浦四村易居紫荆苑4居室 03卧", "price": "1790", "room_size": "90平", "room_shape": "4室1厅"}
+{"room_detail": "泰宸苑3居室 02卧", "price": "2190", "room_size": "87平", "room_shape": "3室1厅"}
+{"room_detail": "建德花园郁金香苑（公寓）3居室 02卧", "price": "2290", "room_size": "109平", "room_shape": "3室1厅"}
+{"room_detail": "金鼎花苑4居室 03卧", "price": "2160", "room_size": "136平", "room_shape": "4室1厅"}
+{"room_shape": "1室0厅", "room_size": "29平", "room_detail": "看房方便，生活很便利，好房待租，人气房源", "price": "2500"}
+{"room_shape": "1室1厅", "room_size": "40平", "room_detail": "桃浦十村，温馨之家，采光好，好房好心情", "price": "2500"}
+{"room_shape": "5室1厅", "room_size": "167平", "room_detail": "上海国际包装印刷城5居室 03卧", "price": "1660"}
+{"room_shape": "3室1厅", "room_size": "80平", "room_detail": "曹杨家园3居室 02卧", "price": "2490"}
+{"room_shape": "4室1厅", "room_size": "145平", "room_detail": "上海国际包装印刷城4居室 01卧", "price": "2430"}
+{"room_shape": "3室1厅", "room_size": "76平", "room_detail": "车站新村（普陀）3居室 02卧", "price": "1960"}
+{"room_shape": "4室1厅", "room_size": "126平", "room_detail": "上海星港4居室 03卧", "price": "2460"}
+{"room_shape": "3室1厅", "room_size": "88平", "room_detail": "泰宸苑3居室 02卧", "price": "2060"}
+{"room_shape": "3室1厅", "room_size": "78平", "room_detail": "桃浦二村永汇新苑3居室 02卧", "price": "1860"}
+{"room_shape": "3室1厅", "room_size": "84平", "room_detail": "泰宸苑3居室 02卧", "price": "2160"}

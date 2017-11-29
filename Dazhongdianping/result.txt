@@ -1,0 +1,289 @@
+{"waste": "8.6", "shop_name": "分类:", "address": "中山北路1737号浦发广场A座三楼踵香", "comment_number": "3220", "avg_price": "116", "service": "8.1", "environment": "8.1"}
+{"waste": "8.6", "shop_name": "夏1999精致本帮料理", "address": "澳门路337号", "comment_number": "345", "avg_price": "124", "service": "8.2", "environment": "8.7"}
+{"waste": "7.6", "shop_name": "南洋少爷", "address": "中江路889号曹杨商务大厦1层3号", "comment_number": "143", "avg_price": "55", "service": "7.8", "environment": "7.8"}
+{"waste": "8.4", "shop_name": "春季海港城", "address": "桃浦路266号", "comment_number": "4418", "avg_price": "84", "service": "8.1", "environment": "8.4"}
+{"waste": "8.9", "shop_name": "狼来了碳烤羊腿(长寿路胶州路直营店)", "address": "胶州路865号2楼", "comment_number": "2205", "avg_price": "109", "service": "8.8", "environment": "8.3"}
+{"shop_name": "分类:", "waste": "8.2", "avg_price": "180", "service": "8.4", "comment_number": "3638", "address": "长寿路652号国际时尚教育中心K栋", "environment": "9.2"}
+{"waste": "9.0", "shop_name": "红辣椒(曹杨店)", "address": "曹杨路555号汇融天地401.402.403", "comment_number": "14135", "avg_price": "113", "service": "9.2", "environment": "9.0"}
+{"shop_name": "煲宫(月星环球港店)", "waste": "9.0", "avg_price": "130", "service": "9.1", "comment_number": "353", "address": "中山北路3300号环球港花园大厅4层", "environment": "8.8"}
+{"waste": "9.0", "shop_name": "哥老官重庆美蛙鱼头(长寿路四哥店)", "address": "长寿路155号巴黎春天6层L608A室", "comment_number": "11798", "avg_price": "140", "service": "8.9", "environment": "8.5"}
+{"waste": "9.1", "shop_name": "捞王锅物料理(长寿路店)", "address": "胶州路883号", "comment_number": "8379", "avg_price": "136", "service": "9.0", "environment": "9.0"}
+{"waste": "9.0", "shop_name": "京炉·北京烤鸭火锅(长寿店)", "address": "长寿路868号中港汇303室", "comment_number": "339", "avg_price": "105", "service": "9.0", "environment": "8.7"}
+{"shop_name": "拿汀里", "waste": "8.5", "avg_price": "43", "service": "9.1", "comment_number": "283", "address": "中山北路3300号环球港B1层b1238", "environment": "9.0"}
+{"waste": "8.8", "shop_name": "荣先森鲜味闽南菜", "address": "中山北路3300号月星环球港3楼", "comment_number": "554", "avg_price": "102", "service": "9.1", "environment": "8.9"}
+{"waste": "8.8", "shop_name": "桂满陇-西湖船宴(近铁城市广场店)", "address": "真北路818号近铁城市广场3楼", "comment_number": "13356", "avg_price": "85", "service": "8.7", "environment": "9.1"}
+{"shop_name": "PHO ONG HUNG雄生", "waste": "9.1", "avg_price": "56", "service": "9.2", "comment_number": "118", "address": "万航渡路悦达889广场b1", "environment": "9.1"}
+number": "888", "avg_price": "128", "service": "9.1", "environment": "9.0"}
+{"shop_name": "新白鹿餐厅(百联中环店)", "waste": "8.1", "avg_price": "62", "service": "8.4", "comment_number": "8730", "address": "真光路1288号百联中环购物广场A区4层", "environment": "8.4"}
+{"shop_name": "漢舍中国菜馆(悦达889广场店)", "waste": "8.8", "avg_price": "166", "service": "8.7", "comment_number": "18744", "address": "万航渡路889号悦达889广场3层", "environment": "9.1"}
+{"avg_price": "88", "service": "8.9", "comment_number": "8286", "shop_name": "分类:", "address": "真光路1288号百联中环购物广场A区4层", "environment": "8.9", "waste": "9.0"}
+{"shop_name": "嗨当家蒸汽海鲜主题餐厅(汇融天地店)", "waste": "9.0", "avg_price": "174", "service": "8.9", "comment_number": "664", "address": "曹杨路555号汇融天地3层", "environment": "8.3"}
+{"shop_name": "伊祥·敦煌楼清真主题餐厅(中山北路店)", "waste": "8.5", "avg_price": "64", "service": "7.3", "comment_number": "5691", "address": "中山北路2212号1-4楼", "environment": "7.3"}
+{"shop_name": "豆捞坊(长寿店)", "waste": "8.4", "avg_price": "115", "service": "8.3", "comment_number": "4317", "address": "长寿路155号巴黎春天4层", "environment": "8.5"}
+{"shop_name": "有山有水海小馆", "waste": "8.4", "avg_price": "363", "service": "8.4", "comment_number": "45", "address": "伯士路57号301室", "environment": "8.5"}
+7.8"}
+{"shop_name": "一号线海鲜串吧·四季冒菜", "waste": "9.2", "avg_price": "90", "service": "9.3", "comment_number": "172", "address": "棕榈路161号", "environment": "9.3"}
+te": "8.7"}
+{"avg_price": "91", "service": "8.2", "comment_number": "8118", "shop_name": "查厘士(近铁广场店)", "address": "真北路858号近铁城市广场南区4层", "environment": "8.6", "waste": "8.3"}
+{"avg_price": "42", "service": "8.6", "comment_number": "107", "shop_name": "MAMA’S  KITCHEN妈妈的厨房", "address": "澳门路351-4号", "environment": "8.8", "waste": "8.7"}
+{"avg_price": "127", "service": "9.0", "comment_number": "631", "shop_name": "左庭右院鲜牛肉火锅(中环百联店)", "address": "真光路1288号3楼", "environment": "9.0", "waste": "9.0"}
+{"avg_price": "142", "service": "9.1", "comment_number": "3986", "shop_name": "捞王锅物料理(近铁城市广场店)", "address": "真北路818号近铁城市广场北座2层", "environment": "9.1", "waste": "9.1"}
+{"avg_price": "93", "service": "8.7", "comment_number": "3280", "shop_name": "青花椒砂锅鱼(长寿路店)", "address": "长寿路155号巴黎春天六楼", "environment": "8.9", "waste": "8.8"}
+{"avg_price": "79", "service": "8.6", "comment_number": "2786", "shop_name": "乐凯撒·榴莲比萨(月星环球港店)", "address": "中山北路3300号环球港花园大厅B1层B1166", "environment": "8.6", "waste": "8.7"}
+{"avg_price": "88", "service": "9.0", "comment_number": "6358", "shop_name": "青花椒砂锅鱼(百联真光路店)", "address": "真光路1288号百联中环购物广场B区3层", "environment": "9.0", "waste": "9.0"}
+{"avg_price": "146", "service": "8.2", "comment_number": "201", "shop_name": "老码头火锅", "address": "铜川路68号一楼", "environment": "8.3", "waste": "7.9"}
+{"avg_price": "41", "service": "8.9", "comment_number": "331", "shop_name": "老坛心面", "address": "金沙江路1836号", "environment": "9.0", "waste": "8.7"}
+{"avg_price": "118", "service": "8.6", "comment_number": "2590", "shop_name": "煲宫(长寿路店)", "address": "陕西北路1622号", "environment": "8.6", "waste": "8.7"}
+{"comment_number": "3123", "environment": "9.0", "avg_price": "131", "service": "8.8", "waste": "9.0", "shop_name": "分类:", "address": "武宁路101号我格广场4楼F4-07"}
+{"comment_number": "300", "environment": "9.1", "avg_price": "74", "service": "9.1", "waste": "9.0", "shop_name": "老安家 山西味道", "address": "中山北路1925号"}
+{"comment_number": "1646", "environment": "9.1", "avg_price": "236", "service": "9.1", "waste": "9.1", "shop_name": "膳道(普陀店)", "address": "大渡河路452号国盛生活广场4楼"}
+{"comment_number": "152", "environment": "9.2", "avg_price": "170", "service": "9.3", "waste": "9.3", "shop_name": "来guo锅物料理", "address": "余姚路730号"}
+{"comment_number": "17802", "environment": "8.4", "avg_price": "124", "service": "8.3", "waste": "8.2", "shop_name": "斯比特花园·意大利餐厅(月星环球港店)", "address": "中山北路3300号环球港中央广场2层2027室"}
+{"comment_number": "1328", "environment": "9.5", "avg_price": "590", "service": "9.4", "waste": "9.4", "shop_name": "龙一海鲜(普陀店)", "address": "古浪路55弄11号"}
+{"comment_number": "1152", "environment": "9.3", "avg_price": "128", "service": "9.4", "waste": "9.2", "shop_name": "赤鼎麻辣锅(巴黎春天店)", "address": "长寿路155号巴黎春天5楼"}
+{"comment_number": "517", "environment": "9.3", "avg_price": "124", "service": "9.4", "waste": "9.2", "shop_name": "海底捞火锅(118广场店)", "address": "金沙江路1685号118广场"}
+{"comment_number": "90", "environment": "9.0", "avg_price": "23", "service": "9.0", "waste": "8.8", "shop_name": "阿路面馆", "address": "中江路889号新曹杨乐活天地二楼"}
+{"comment_number": "4361", "environment": "8.2", "avg_price": "126", "service": "8.9", "waste": "9.0", "shop_name": "洪太极烤全羊热气羊肉火锅夜宵(普陀店)", "address": "梅川路1275号近真光路"}
+{"comment_number": "3779", "environment": "8.7", "avg_price": "126", "service": "8.6", "waste": "8.3", "shop_name": "宋记香辣蟹(环球港店)", "address": "中山北路3300号环球港中央广场B1层1059号"}
+{"comment_number": "225", "environment": "9.1", "avg_price": "74", "service": "9.2", "waste": "8.8", "shop_name": "阿斯塔纳新疆美食餐厅", "address": "曹杨路450号绿地和创大厦下沉式广场"}
+{"comment_number": "1615", "environment": "8.7", "avg_price": "48", "service": "8.4", "waste": "8.5", "shop_name": "多乐之日(近铁城市广场店)", "address": "真北路858号近铁城市广场北座B2层"}
+{"comment_number": "380", "environment": "8.8", "avg_price": "76", "service": "8.7", "waste": "8.5", "shop_name": "张记一哥烧烤(长寿路店)", "address": "长寿路398号一楼商铺"}
+{"comment_number": "733", "environment": "8.3", "avg_price": "87", "service": "8.6", "waste": "9.0", "shop_name": "新马茶餐厅(189弄购物中心店)", "address": "长寿路189号189购物中心B1层"}
+{"avg_price": "139", "service": "9.2", "comment_number": "2065", "shop_name": "分类:", "address": "长寿路1118号芳汇广场A座4层", "environment": "9.1", "waste": "9.1"}
+{"avg_price": "53", "service": "9.1", "comment_number": "143", "shop_name": "菊花羊肉料理", "address": "镇坪路60号", "environment": "8.7", "waste": "9.1"}
+{"avg_price": "184", "service": "8.2", "comment_number": "1570", "shop_name": "丽贝蒸鲜工坊蒸汽海鲜", "address": "长寿路468号三楼", "environment": "8.4", "waste": "8.9"}
+{"avg_price": "142", "service": "8.3", "comment_number": "10529", "shop_name": "小辉哥火锅(环球港店)", "address": "中山北路3300号环球港花园大厅3层L3123号", "environment": "8.6", "waste": "8.5"}
+{"avg_price": "94", "service": "9.1", "comment_number": "375", "shop_name": "伊腾寿司", "address": "志丹路180号", "environment": "8.9", "waste": "9.1"}
+{"avg_price": "93", "service": "9.0", "comment_number": "6916", "shop_name": "青花椒砂锅鱼(汇融天地店)", "address": "曹杨路555号汇融天地3F", "environment": "8.7", "waste": "9.0"}
+{"avg_price": "111", "service": "8.8", "comment_number": "2349", "shop_name": "大宋餐饮·宋厨娘(弘基时尚生活中心店)", "address": "铜川路68号弘基时尚生活中心3层", "environment": "9.1", "waste": "8.4"}
+{"avg_price": "76", "service": "9.3", "comment_number": "1163", "shop_name": "潮界(IMAGO我格广场店)", "address": "武宁路101号IMAGO我格广场5层。", "environment": "8.9", "waste": "9.1"}
+{"avg_price": "152", "service": "8.8", "comment_number": "405", "shop_name": "握料理", "address": "西康路1285号", "environment": "8.9", "waste": "8.7"}
+{"avg_price": "134", "service": "7.6", "comment_number": "4952", "shop_name": "小黑蚝情(安远路店)", "address": "安远路538号", "environment": "7.4", "waste": "8.3"}
+{"avg_price": "125", "service": "8.9", "comment_number": "162", "shop_name": "Beer Plus啤加", "address": "长寿路406号", "environment": "9.1", "waste": "9.1"}
+{"avg_price": "164", "service": "8.7", "comment_number": "3781", "shop_name": "大馥 · 炭火烧肉屋(安远路店)", "address": "安远路530号", "environment": "8.2", "waste": "9.1"}
+{"avg_price": "131", "service": "8.1", "comment_number": "1624", "shop_name": "五月罗马海鲜自助餐厅(月星环球港店)", "address": "中山北路3300号环球港太阳大厅3层L3138-L3150", "environment": "8.1", "waste": "8.0"}
+{"avg_price": "153", "service": "8.3", "comment_number": "5560", "shop_name": "顺风港湾(环球港店)", "address": "中山北路3300号环球港3层", "environment": "8.6", "waste": "8.7"}
+{"avg_price": "79", "service": "8.9", "comment_number": "858", "shop_name": "贵家炭火烤肉(189弄购物中心店)", "address": "长寿路189号近西康路", "environment": "8.8", "waste": "8.9"}
+{"waste": "8.9", "shop_name": "分类:", "address": "胶州路865号2楼", "comment_number": "2205", "avg_price": "109", "service": "8.8", "environment": "8.3"}
+{"waste": "7.6", "shop_name": "南洋少爷", "address": "中江路889号曹杨商务大厦1层3号", "comment_number": "143", "avg_price": "55", "service": "7.8", "environment": "7.8"}
+{"waste": "8.6", "shop_name": "夏1999精致本帮料理", "address": "澳门路337号", "comment_number": "345", "avg_price": "124", "service": "8.2", "environment": "8.7"}
+{"waste": "8.4", "shop_name": "春季海港城", "address": "桃浦路266号", "comment_number": "4418", "avg_price": "84", "service": "8.1", "environment": "8.4"}
+{"waste": "8.6", "shop_name": "踵香", "address": "中山北路1737号浦发广场A座三楼踵香", "comment_number": "3220", "avg_price": "116", "service": "8.1", "environment": "8.1"}
+{"waste": "9.0", "shop_name": "红辣椒(曹杨店)", "address": "曹杨路555号汇融天地401.402.403", "comment_number": "14135", "avg_price": "113", "service": "9.2", "environment": "9.0"}
+{"waste": "9.0", "shop_name": "哥老官重庆美蛙鱼头(长寿路四哥店)", "address": "长寿路155号巴黎春天6层L608A室", "comment_number": "11798", "avg_price": "140", "service": "8.9", "environment": "8.5"}
+{"waste": "9.1", "shop_name": "捞王锅物料理(长寿路店)", "address": "胶州路883号", "comment_number": "8379", "avg_price": "136", "service": "9.0", "environment": "9.0"}
+{"waste": "9.0", "shop_name": "京炉·北京烤鸭火锅(长寿店)", "address": "长寿路868号中港汇303室", "comment_number": "339", "avg_price": "105", "service": "9.0", "environment": "8.7"}
+{"waste": "8.8", "shop_name": "富春晓院", "address": "安远路222号", "comment_number": "108", "avg_price": "82", "service": "7.9", "environment": "8.7"}
+{"waste": "8.8", "shop_name": "荣先森鲜味闽南菜", "address": "中山北路3300号月星环球港3楼", "comment_number": "554", "avg_price": "102", "service": "9.1", "environment": "8.9"}
+{"waste": "8.8", "shop_name": "桂满陇-西湖船宴(近铁城市广场店)", "address": "真北路818号近铁城市广场3楼", "comment_number": "13356", "avg_price": "85", "service": "8.7", "environment": "9.1"}
+{"waste": "9.0", "shop_name": "哥老官重庆美蛙鱼头(中环百联十五哥店)", "address": "真光路1288号上海百联中环购物广场四层G08-4F-1-B4F002室", "comment_number": "888", "avg_price": "128", "service": "9.1", "environment": "9.0"}
+{"waste": "9.2", "shop_name": "就是泰Just Thai泰式火锅(长寿路店)", "address": "长寿路155号巴黎春天5F", "comment_number": "2145", "avg_price": "147", "service": "9.1", "environment": "9.1"}
+{"waste": "9.0", "shop_name": "深夜蛇堂", "address": "新会路139号", "comment_number": "221", "avg_price": "221", "service": "8.9", "environment": "9.0"}
+{"shop_name": "分类:", "waste": "9.0", "avg_price": "82", "service": "9.0", "comment_number": "1263", "address": "铜川路68号弘基时尚生活中心2层", "environment": "8.9"}
+{"shop_name": "唐宫海鲜舫(悦达889广场店)", "waste": "8.6", "avg_price": "149", "service": "8.0", "comment_number": "7758", "address": "万航渡路889号悦达889广场4-5层", "environment": "8.5"}
+{"shop_name": "沸腾群英荟", "waste": "8.9", "avg_price": "99", "service": "8.7", "comment_number": "50", "address": "武宁南路377号葳姐四大金刚隔壁", "environment": "8.7"}
+{"shop_name": "串小官", "waste": "8.6", "avg_price": "67", "service": "8.5", "comment_number": "92", "address": "曹杨路555号汇融广场2楼206", "environment": "8.5"}
+{"shop_name": "HARU KITCHEN 重膳(曹杨路店)", "waste": "9.0", "avg_price": "157", "service": "9.1", "comment_number": "279", "address": "曹杨路555号汇融天地3楼", "environment": "9.1"}
+{"shop_name": "红料理(梅川店)", "waste": "9.0", "avg_price": "91", "service": "8.9", "comment_number": "1715", "address": "梅川路1275号靠近真光路", "environment": "8.8"}
+{"shop_name": "西贝莜面村(近铁城市广场店)", "waste": "9.0", "avg_price": "85", "service": "9.1", "comment_number": "1861", "address": "真北路858号近铁城市广场北座3层", "environment": "8.9"}
+{"shop_name": "喜来稀肉서래갈매기(梅川路店)", "waste": "8.5", "avg_price": "96", "service": "8.6", "comment_number": "4096", "address": "梅川路1275号", "environment": "8.6"}
+{"shop_name": "唐宫茶点(189弄购物中心店)", "waste": "8.1", "avg_price": "91", "service": "7.8", "comment_number": "923", "address": "长寿路189弄189弄购物中心5层", "environment": "8.0"}
+{"shop_name": "蟹主隆恩", "waste": "8.2", "avg_price": "66", "service": "8.8", "comment_number": "132", "address": "远景路616号远景大厦A座A105室", "environment": "8.8"}
+{"shop_name": "哈府私房火锅(兰溪路店)", "waste": "8.6", "avg_price": "106", "service": "8.6", "comment_number": "1537", "address": "兰溪路148号2楼", "environment": "8.1"}
+{"shop_name": "崔家木炭烤肉(梅川路店)", "waste": "8.8", "avg_price": "94", "service": "8.8", "comment_number": "5108", "address": "梅川路1366号", "environment": "8.8"}
+{"shop_name": "DATING达庭西餐厅", "waste": "9.1", "avg_price": "173", "service": "9.1", "comment_number": "597", "address": "金沙江路1628号2号楼6楼绿洲中环中心", "environment": "9.3"}
+{"shop_name": "好风日青花椒鱼(环球港店)", "waste": "8.4", "avg_price": "72", "service": "8.5", "comment_number": "392", "address": "中山北路3300号上海环球港B1227", "environment": "8.4"}
+{"shop_name": "夏哈热木", "waste": "8.8", "avg_price": "60", "service": "8.5", "comment_number": "97", "address": "澳门路735号2楼", "environment": "8.6"}
+{"comment_number": "778", "environment": "8.9", "avg_price": "138", "service": "9.0", "waste": "9.0", "shop_name": "分类:", "address": "长寿路189弄189弄购物中心4层"}
+{"comment_number": "830", "environment": "8.6", "avg_price": "79", "service": "8.8", "waste": "8.7", "shop_name": "老头儿油爆虾(百联中环购物广场店)", "address": "真光路1288号百联中环购物广场A区4层"}
+{"comment_number": "1262", "environment": "9.1", "avg_price": "115", "service": "9.2", "waste": "9.0", "shop_name": "甘露霖无国界蔬食料理", "address": "万航渡路889号悦达889广场4楼12室"}
+{"comment_number": "3038", "environment": "8.7", "avg_price": "128", "service": "8.2", "waste": "8.4", "shop_name": "Pizza Marzano玛尚诺(环球港店)", "address": "中山北路3300号环球港中央广场3层L3082号"}
+{"comment_number": "2395", "environment": "9.0", "avg_price": "150", "service": "9.0", "waste": "9.1", "shop_name": "纯味斑鱼府(静安店)", "address": "武宁南路381号"}
+{"comment_number": "87", "environment": "9.1", "avg_price": "49", "service": "9.1", "waste": "9.1", "shop_name": "大渔・金枪鱼海鲜饭(长宁路店)", "address": "长宁路88号KING88商业广场B1层"}
+{"comment_number": "1410", "environment": "9.1", "avg_price": "119", "service": "9.0", "waste": "9.1", "shop_name": "重庆巴王府火锅", "address": "梅川路1528号"}
+{"comment_number": "1015", "environment": "8.5", "avg_price": "144", "service": "8.7", "waste": "8.6", "shop_name": "蒸太宫(石锅鱼)海鲜(梅川路店)", "address": "梅川路1420号"}
+{"comment_number": "5127", "environment": "8.3", "avg_price": "157", "service": "9.2", "waste": "9.1", "shop_name": "凯达石斑鱼打边炉(长寿路店)", "address": "胶州路859号1-3楼"}
+{"comment_number": "15052", "environment": "8.9", "avg_price": "113", "service": "8.8", "waste": "9.0", "shop_name": "天辣绿色时尚餐厅(月星环球港店)", "address": "中山北路3300号月星环球港4楼L4059号商铺"}
+{"comment_number": "5500", "environment": "8.8", "avg_price": "131", "service": "8.8", "waste": "9.0", "shop_name": "左庭右院鲜牛肉火锅(环球港店)", "address": "中山北路3300号环球港花园大厅3层"}
+{"comment_number": "1000", "environment": "9.0", "avg_price": "155", "service": "9.1", "waste": "9.0", "shop_name": "厚貞牛舌烧肉(长寿路店)", "address": "长寿路445号"}
+{"comment_number": "333", "environment": "8.9", "avg_price": "36", "service": "8.9", "waste": "9.1", "shop_name": "Momochitl美式爆米花专卖店(环球港店)", "address": "中山北路3300号环球港太阳大厅B1层B1135"}
+{"comment_number": "463", "environment": "8.4", "avg_price": "95", "service": "8.8", "waste": "8.9", "shop_name": "云南蒸汽石锅鱼(新村路店)", "address": "志丹路新村路423弄35号"}
+{"comment_number": "251", "environment": "8.9", "avg_price": "114", "service": "8.6", "waste": "8.9", "shop_name": "麻辣鲜(梅川路店)", "address": "梅川路1532号"}
+{"avg_price": "369", "service": "8.7", "comment_number": "153", "shop_name": "分类:", "address": "宁夏路718号上海环球港凯悦酒店45楼", "environment": "9.2", "waste": "8.9"}
+{"avg_price": "73", "service": "9.3", "comment_number": "142", "shop_name": "飞行比萨Pizza Alvolo(远景路店)", "address": "远景路616号A栋104号商铺", "environment": "9.2", "waste": "9.3"}
+{"avg_price": "122", "service": "8.3", "comment_number": "2179", "shop_name": "江江水来烧肉料理(近铁城市广场店)", "address": "真北路818号近铁城市广场北座3层", "environment": "8.8", "waste": "8.5"}
+{"avg_price": "88", "service": "8.9", "comment_number": "248", "shop_name": "粤品捞猪肚鸡(宜川店)", "address": "宜川路300号A幢1-02", "environment": "8.8", "waste": "8.7"}
+{"avg_price": "140", "service": "8.4", "comment_number": "3202", "shop_name": "大龙燚火锅(长寿店)", "address": "长寿路398号2楼", "environment": "8.4", "waste": "8.8"}
+{"avg_price": "380", "service": "8.7", "comment_number": "617", "shop_name": "新发展亚太JW万豪酒店珍珠轩中餐厅", "address": "大渡河路158号新发展亚太JW万豪酒店2楼", "environment": "9.2", "waste": "8.7"}
+{"avg_price": "125", "service": "8.1", "comment_number": "2933", "shop_name": "鹅夫人(中环百联店)", "address": "真光路1288号百联中环购物广场A区3层", "environment": "8.6", "waste": "8.0"}
+{"avg_price": "230", "service": "7.8", "comment_number": "596", "shop_name": "一起去赶海(新村路店)", "address": "新村路1501号", "environment": "8.3", "waste": "8.6"}
+{"avg_price": "116", "service": "8.8", "comment_number": "1131", "shop_name": "付二娘美蛙鱼头(万航渡路店)", "address": "万航渡路529号近武定西路", "environment": "8.6", "waste": "8.9"}
+{"avg_price": "182", "service": "7.9", "comment_number": "4644", "shop_name": "唐宫(皇冠店)", "address": "金沙江路1699号皇冠假日酒店二楼", "environment": "8.7", "waste": "8.5"}
+{"avg_price": "47", "service": "8.3", "comment_number": "225", "shop_name": "贩多食堂(环球港店)", "address": "中山北路3300号环球港B1层", "environment": "7.4", "waste": "8.4"}
+{"avg_price": "136", "service": "7.8", "comment_number": "792", "shop_name": "麻辣鲜(上海静安店)", "address": "万航渡路419号", "environment": "7.3", "waste": "8.8"}
+{"avg_price": "86", "service": "8.7", "comment_number": "11859", "shop_name": "百岁·我家酸菜鱼(梅川步行街店)", "address": "梅川路1366号步行街", "environment": "8.6", "waste": "9.0"}
+{"avg_price": "82", "service": "8.3", "comment_number": "1141", "shop_name": "麓湘小镇(悦达889广场店)", "address": "万航渡路889号悦达889广场3层", "environment": "8.7", "waste": "8.5"}
+{"avg_price": "108", "service": "8.8", "comment_number": "329", "shop_name": "家府潮汕菜很正宗(月星环球港店)", "address": "中山北路3300号月星环球港2楼太阳大厅2013-2016号店铺", "environment": "8.7", "waste": "8.5"}
+{"waste": "8.7", "shop_name": "分类:", "address": "中山北路3050号，中山北路白兰路", "comment_number": "364", "avg_price": "102", "service": "8.6", "environment": "8.3"}
+{"waste": "9.0", "shop_name": "西贝莜面村(上海我格广场店)", "address": "武宁路101号我格广场5楼19号", "comment_number": "1774", "avg_price": "93", "service": "9.1", "environment": "9.0"}
+{"waste": "8.9", "shop_name": "辣府(金沙江路店)", "address": "金沙江路1759号圣诺亚大厦2楼202", "comment_number": "9822", "avg_price": "153", "service": "8.1", "environment": "8.6"}
+{"waste": "8.7", "shop_name": "羊顶天(华师大店)", "address": "中山北路3612号", "comment_number": "227", "avg_price": "110", "service": "8.4", "environment": "8.8"}
+{"waste": "9.1", "shop_name": "Moosan木桑水产(环球港店)", "address": "中山北路3300号", "comment_number": "342", "avg_price": "85", "service": "9.1", "environment": "8.8"}
+{"waste": "8.6", "shop_name": "小酌", "address": "中山北路3050号", "comment_number": "115", "avg_price": "82", "service": "8.8", "environment": "9.0"}
+{"waste": "8.4", "shop_name": "云海肴云南菜(悦达889广场店)", "address": "曹家渡街道悦达889广场3层3L", "comment_number": "888", "avg_price": "97", "service": "8.9", "environment": "8.8"}
+{"waste": "9.0", "shop_name": "大馥 · 炭火烧肉屋(梅川路店)", "address": "梅川路1378号", "comment_number": "1643", "avg_price": "148", "service": "8.9", "environment": "8.7"}
+{"waste": "8.8", "shop_name": "山国志老灶火锅", "address": "常德路1221号", "comment_number": "1119", "avg_price": "122", "service": "8.8", "environment": "8.8"}
+{"waste": "8.6", "shop_name": "禅一·静观堂", "address": "长寿路97号世纪商务大厦B1层", "comment_number": "432", "avg_price": "602", "service": "9.0", "environment": "9.2"}
+{"waste": "8.8", "shop_name": "周渝食惦酸菜鱼(长寿路店)", "address": "安远路534号", "comment_number": "3091", "avg_price": "81", "service": "8.4", "environment": "8.5"}
+{"waste": "8.7", "shop_name": "米+Mall日食料理所(芳汇广场店)", "address": "长寿路1118号芳汇广场2层", "comment_number": "3705", "avg_price": "84", "service": "8.7", "environment": "8.1"}
+{"waste": "9.0", "shop_name": "观鹤亭", "address": "丹巴路99号天御国际广场B2栋216", "comment_number": "102", "avg_price": "153", "service": "9.1", "environment": "9.0"}
+{"waste": "8.2", "shop_name": "老胡同热气羊肉羊蝎子火锅(长寿路总店)", "address": "长寿路386号1层112室及夹层07室", "comment_number": "5593", "avg_price": "145", "service": "8.0", "environment": "8.1"}
+{"waste": "8.4", "shop_name": "煜北西北小馆(巴黎春天店)", "address": "长寿路155号巴黎春天6层", "comment_number": "772", "avg_price": "48", "service": "8.7", "environment": "8.8"}
+{"comment_number": "10286", "environment": "8.8", "avg_price": "116", "service": "8.5", "waste": "8.5", "shop_name": "分类:", "address": "真北路818号近铁城市广场3层10号商铺"}
+{"comment_number": "397", "environment": "8.4", "avg_price": "145", "service": "8.7", "waste": "8.6", "shop_name": "藤幸烧肉(189弄购物中心店)", "address": "长寿路189弄189弄购物中心5层"}
+{"comment_number": "350", "environment": "8.6", "avg_price": "297", "service": "8.8", "waste": "8.3", "shop_name": "Toshima丰岛日本会席料理(环球港店)", "address": "中山北路3300号环球港B2层"}
+{"comment_number": "4464", "environment": "8.6", "avg_price": "87", "service": "8.8", "waste": "8.6", "shop_name": "西贝莜面村(上海中环百联店)", "address": "真光路1288号百联中环购物广场B区3层"}
+{"comment_number": "62", "environment": "9.0", "avg_price": "43", "service": "8.9", "waste": "8.6", "shop_name": "Dal.komm 达可梦咖啡", "address": "3300号环球港一楼L1057-L1058商铺"}
+{"comment_number": "73", "environment": "9.2", "avg_price": "225", "service": "9.1", "waste": "8.8", "shop_name": "海立阁海鲜(King88广场店)", "address": "长宁路88号King88中心广场4楼"}
+{"comment_number": "4435", "environment": "8.5", "avg_price": "79", "service": "8.4", "waste": "8.2", "shop_name": "玲珑宝宴(近铁城市广场店)", "address": "真北路818号近铁城市广场北区3层"}
+{"comment_number": "1798", "environment": "8.2", "avg_price": "126", "service": "8.1", "waste": "8.3", "shop_name": "骑楼•怀旧街市火锅", "address": "长寿路388号2楼"}
+{"comment_number": "3498", "environment": "8.4", "avg_price": "86", "service": "8.3", "waste": "8.4", "shop_name": "望湘园(长寿路店)", "address": "长寿路155号巴黎春天6层"}
+{"comment_number": "5557", "environment": "8.1", "avg_price": "139", "service": "8.1", "waste": "8.3", "shop_name": "大龙燚火锅(梅川路店)", "address": "梅川路1382-1386号1楼"}
+{"comment_number": "596", "environment": "8.3", "avg_price": "206", "service": "8.8", "waste": "9.0", "shop_name": "御蒸轩蒸汽海鲜锅", "address": "梅川路1275号"}
+{"comment_number": "3420", "environment": "8.4", "avg_price": "96", "service": "8.0", "waste": "8.3", "shop_name": "江边城外烤全鱼(长寿路店)", "address": "长寿路155号巴黎春天5层"}
+{"comment_number": "492", "environment": "8.6", "avg_price": "142", "service": "9.0", "waste": "9.0", "shop_name": "膳蒸宴蒸汽海鲜料理", "address": "梅川路1508号"}
+{"comment_number": "6279", "environment": "8.4", "avg_price": "192", "service": "8.4", "waste": "8.0", "shop_name": "峯铁板烧(环球港店)", "address": "中山北路3300号环球港中央广场4层"}
+{"shop_name": "分类:", "waste": "8.2", "avg_price": "154", "service": "8.5", "comment_number": "309", "address": "长寿路189弄189弄购物中心B1层", "environment": "8.8"}
+{"shop_name": "红料理(新会路店)", "waste": "8.5", "avg_price": "80", "service": "8.5", "comment_number": "1644", "address": "新会路50号", "environment": "8.2"}
+{"shop_name": "金御海鲜酒家(长寿路店)", "waste": "8.5", "avg_price": "125", "service": "7.9", "comment_number": "1512", "address": "西康路1048号金豪国际大厦2楼", "environment": "7.7"}
+{"shop_name": "爸爸糖手工吐司", "waste": "8.3", "avg_price": "41", "service": "8.2", "comment_number": "73", "address": "金沙江路1880号", "environment": "8.6"}
+{"shop_name": "老十七火锅(长寿路店)", "waste": "8.5", "avg_price": "147", "service": "8.9", "comment_number": "3942", "address": "胶州路945号3楼", "environment": "8.8"}
+{"shop_name": "Babbo", "waste": "9.0", "avg_price": "216", "service": "9.1", "comment_number": "1198", "address": "康定路1023号", "environment": "8.8"}
+{"shop_name": "芥末日本料理(圣诺亚店)", "waste": "8.2", "avg_price": "269", "service": "8.3", "comment_number": "7005", "address": "金沙江路1699号圣诺亚皇冠假日酒店2楼", "environment": "8.4"}
+{"shop_name": "环球港凯悦酒店·咖啡厅", "waste": "8.4", "avg_price": "184", "service": "8.6", "comment_number": "1138", "address": "宁夏路718号环球港凯悦酒店七楼", "environment": "9.1"}
+{"shop_name": "椰子不语(环球港店)", "waste": "7.9", "avg_price": "173", "service": "8.4", "comment_number": "3481", "address": "中山北路3300号环球港花园大厅2层L2126", "environment": "8.6"}
+{"shop_name": "OY Lab", "waste": "8.9", "avg_price": "22", "service": "9.0", "comment_number": "103", "address": "中山北路3018号长城宏基广场109铺", "environment": "8.4"}
+{"shop_name": "宁夏印象・盐池滩羊体验店", "waste": "8.7", "avg_price": "99", "service": "8.2", "comment_number": "915", "address": "江宁路1600号恺悦大厦1层", "environment": "8.5"}
+{"shop_name": "漫驼铃西域餐厅(环球港店)", "waste": "8.4", "avg_price": "92", "service": "8.2", "comment_number": "2804", "address": "中山北路3300号环球港3层3011室", "environment": "8.3"}
+{"shop_name": "极上精致和食", "waste": "9.0", "avg_price": "365", "service": "9.0", "comment_number": "1295", "address": "泰州路401号", "environment": "9.1"}
+{"shop_name": "胖哥俩肉蟹煲(巴黎春天店)", "waste": "8.5", "avg_price": "82", "service": "8.4", "comment_number": "6193", "address": "长寿路155号巴黎春天6楼", "environment": "8.4"}
+{"shop_name": "蜀香川西坝子(长宁KING88店)", "waste": "8.9", "avg_price": "123", "service": "9.0", "comment_number": "352", "address": "长宁路88号KING88商业广场4楼4-2号", "environment": "9.0"}
+{"avg_price": "120", "service": "8.9", "comment_number": "522", "shop_name": "分类:", "address": "澳门路168号月星家居茂5楼", "environment": "9.1", "waste": "8.4"}
+{"avg_price": "133", "service": "8.4", "comment_number": "2593", "shop_name": "潮州府砂锅粥(长寿路店)", "address": "长寿路402号2楼", "environment": "8.6", "waste": "8.6"}
+{"avg_price": "84", "service": "8.7", "comment_number": "1276", "shop_name": "望蓉城老坛酸菜鱼(近铁店)", "address": "真北路818号近铁城市广场北区3层", "environment": "9.0", "waste": "8.5"}
+{"avg_price": "20", "service": "8.5", "comment_number": "217", "shop_name": "秦云老太婆摊摊面(曹杨路店)", "address": "曹杨路450号", "environment": "8.0", "waste": "8.7"}
+{"avg_price": "86", "service": "9.0", "comment_number": "453", "shop_name": "西贝莜面村(189弄购物中心店)", "address": "长寿路189弄189弄购物中心5层", "environment": "8.7", "waste": "8.8"}
+{"avg_price": "131", "service": "8.8", "comment_number": "1470", "shop_name": "WIN HOUSE(月星环球港店)", "address": "中山北路3300号L1023-L1026", "environment": "9.0", "waste": "8.6"}
+{"avg_price": "114", "service": "8.5", "comment_number": "13779", "shop_name": "上上谦串串香火锅(IMAGO我格广场店)", "address": "武宁路101号IMAGO我格广场5层", "environment": "8.3", "waste": "8.4"}
+{"avg_price": "193", "service": "8.6", "comment_number": "920", "shop_name": "境海蒸汽海鲜(中山北路店)", "address": "中山北路3058号，绿洲商务", "environment": "7.7", "waste": "9.0"}
+{"avg_price": "40", "service": "8.6", "comment_number": "555", "shop_name": "菽水小馆(189弄购物中心店)", "address": "长寿路189弄189弄购物中心5层", "environment": "8.6", "waste": "8.3"}
+{"avg_price": "142", "service": "8.7", "comment_number": "1914", "shop_name": "川殿成都老火锅(环球港店)", "address": "中山北路3300号环球港4层4130-4136", "environment": "8.8", "waste": "8.6"}
+{"avg_price": "268", "service": "9.0", "comment_number": "253", "shop_name": "園（缘）烧肉酒场(丹巴路店)", "address": "丹巴路99号苏宁天御国际广场B1座119室", "environment": "8.9", "waste": "8.9"}
+{"avg_price": "73", "service": "8.5", "comment_number": "197", "shop_name": "手作一根面", "address": "金沙江路1759号圣诺亚大厦群楼204", "environment": "8.7", "waste": "8.5"}
+{"avg_price": "110", "service": "8.0", "comment_number": "3299", "shop_name": "星怡会(环球港店)", "address": "中山北路3300号环球港太阳大厅2层L2148", "environment": "8.5", "waste": "8.3"}
+{"avg_price": "223", "service": "8.4", "comment_number": "5216", "shop_name": "Mcake蛋糕(上海站)", "address": "同普路1130弄3号楼", "environment": "8.0", "waste": "8.2"}
+{"avg_price": "52", "service": "8.5", "comment_number": "100", "shop_name": "米鱼记古法粥铺(长寿店)", "address": "长寿路189号B106室", "environment": "8.2", "waste": "8.5"}
+{"waste": "8.5", "shop_name": "分类:", "address": "真光路1288号百联中环购物广场A区4层", "comment_number": "6807", "avg_price": "75", "service": "8.6", "environment": "8.5"}
+{"waste": "8.5", "shop_name": "解蜜|新亚洲风潮餐食", "address": "万航渡路889号悦达889广场4层", "comment_number": "265", "avg_price": "92", "service": "8.3", "environment": "8.6"}
+{"waste": "9.0", "shop_name": "金时代顺风大酒店(中环店)", "address": "金沙江路1678号绿洲中环中心6号楼2楼", "comment_number": "2213", "avg_price": "140", "service": "8.5", "environment": "8.7"}
+{"waste": "8.8", "shop_name": "八方海鲜蒸汽火锅", "address": "长寿路868号中港汇大厦2楼203（安远路长寿路路口）", "comment_number": "1570", "avg_price": "219", "service": "8.4", "environment": "8.3"}
+{"waste": "8.2", "shop_name": "となりの鱗屋", "address": "长寿路189弄189购物中心4层", "comment_number": "75", "avg_price": "97", "service": "8.5", "environment": "8.6"}
+{"waste": "8.3", "shop_name": "红料理(万航渡路店)", "address": "万航渡路465号", "comment_number": "5269", "avg_price": "77", "service": "7.5", "environment": "7.4"}
+{"waste": "8.4", "shop_name": "The Frypan韩国炸鸡和啤酒", "address": "中山北路3667号", "comment_number": "1168", "avg_price": "59", "service": "8.4", "environment": "8.4"}
+{"waste": "8.9", "shop_name": "巴依老爷新疆特色餐厅", "address": "凯旋北路1616号", "comment_number": "132", "avg_price": "91", "service": "8.3", "environment": "7.5"}
+{"waste": "8.4", "shop_name": "锅云涧老麻鱼", "address": "金沙江路1759号圣诺亚大厦2楼", "comment_number": "79", "avg_price": "64", "service": "8.8", "environment": "8.8"}
+{"waste": "8.2", "shop_name": "关东小磨(长风大悦城店)", "address": "大渡河路178号长风大悦城4楼", "comment_number": "2692", "avg_price": "61", "service": "8.1", "environment": "8.4"}
+{"waste": "8.6", "shop_name": "串门成都", "address": "中江路889号", "comment_number": "145", "avg_price": "60", "service": "8.7", "environment": "8.7"}
+{"waste": "8.6", "shop_name": "小辉哥火锅(近铁城市广场店)", "address": "真北路818号北区3楼N-F3-13、N-F3-14-B单元", "comment_number": "3198", "avg_price": "134", "service": "8.7", "environment": "8.9"}
+{"waste": "9.0", "shop_name": "章家菜馆", "address": "中山北路2139弄44号", "comment_number": "564", "avg_price": "157", "service": "8.1", "environment": "7.5"}
+{"waste": "8.4", "shop_name": "盘湾方舟", "address": "凯旋北路1555弄5号", "comment_number": "1749", "avg_price": "221", "service": "7.8", "environment": "8.4"}
+{"waste": "8.8", "shop_name": "火候湖南菜", "address": "长寿路1077号2楼", "comment_number": "1178", "avg_price": "68", "service": "9.0", "environment": "8.7"}
+{"shop_name": "分类:", "waste": "8.3", "avg_price": "94", "service": "8.4", "comment_number": "2212", "address": "中山北路3300号环球港花园大厅B1层-235铺位", "environment": "8.5"}
+{"shop_name": "星怡会(长风大悦城店)", "waste": "8.4", "avg_price": "105", "service": "8.0", "comment_number": "7468", "address": "大渡河路178号长风大悦城3层", "environment": "8.5"}
+{"shop_name": "九井日本料理(长寿路店)", "waste": "8.9", "avg_price": "394", "service": "8.2", "comment_number": "2310", "address": "长寿路577号1楼", "environment": "8.5"}
+{"shop_name": "金时代顺风大酒店(西康店)", "waste": "7.6", "avg_price": "131", "service": "6.9", "comment_number": "6229", "address": "西康路1068号维多利广场内", "environment": "7.2"}
+{"shop_name": "驴老锅阿胶驴肉火锅", "waste": "8.5", "avg_price": "131", "service": "8.5", "comment_number": "625", "address": "长寿路285号恒达广场一楼", "environment": "8.9"}
+{"shop_name": "七欣天品蟹轩(芳汇店)", "waste": "8.6", "avg_price": "129", "service": "9.2", "comment_number": "119", "address": "长寿路1118号芳汇广场4楼", "environment": "9.1"}
+{"shop_name": "蜀家肴", "waste": "8.7", "avg_price": "72", "service": "9.0", "comment_number": "753", "address": "胶州路877号", "environment": "8.8"}
+{"shop_name": "心一筋燒肉麻辣火鍋KOKORO  HITOSUZI", "waste": "9.0", "avg_price": "196", "service": "9.0", "comment_number": "1741", "address": "长寿路577号", "environment": "8.9"}
+{"shop_name": "老长沙跳跳蛙", "waste": "8.4", "avg_price": "89", "service": "8.5", "comment_number": "1309", "address": "新会路504号（胶州路口）鸿福商务酒店一楼", "environment": "7.5"}
+{"shop_name": "蒸汽制造(环球港店)", "waste": "8.5", "avg_price": "150", "service": "8.7", "comment_number": "610", "address": "中山北路3300号环球港花园中庭B1层B1236号", "environment": "8.2"}
+{"shop_name": "池户寿司(近铁城市广场店)", "waste": "9.0", "avg_price": "67", "service": "8.9", "comment_number": "644", "address": "真北路858号近铁城市广场北区B2层", "environment": "8.6"}
+{"shop_name": "山葵伴Wasabi Sushi寿司(环球港店)", "waste": "8.8", "avg_price": "126", "service": "8.5", "comment_number": "686", "address": "中山北路3300号环球港中央广场3层L3151", "environment": "8.3"}
+{"shop_name": "简厨KitchenConcise(近铁城市广场店)", "waste": "8.7", "avg_price": "62", "service": "8.4", "comment_number": "663", "address": "真北路858号近铁城市广场南座1层", "environment": "9.0"}
+{"shop_name": "红魔重庆美蛙火锅(环球港店)", "waste": "8.3", "avg_price": "92", "service": "8.4", "comment_number": "5378", "address": "中山北路3300号环球港花园大厅B1层B1258毗邻美食广场", "environment": "8.1"}
+{"shop_name": "UNDEFINE", "waste": "8.2", "avg_price": "41", "service": "8.5", "comment_number": "850", "address": "莫干山路50号6号楼105室", "environment": "9.0"}
+{"comment_number": "138", "environment": "9.0", "avg_price": "392", "service": "9.1", "waste": "8.3", "shop_name": "分类:", "address": "万航渡路889号悦达广场三楼"}
+{"comment_number": "6894", "environment": "8.5", "avg_price": "166", "service": "7.9", "waste": "8.1", "shop_name": "simply thai天泰餐厅(环球港店)", "address": "中山北路3300号环球港中央广场4层"}
+{"comment_number": "141", "environment": "8.2", "avg_price": "15", "service": "8.2", "waste": "8.4", "shop_name": "1点点(万航渡路店)", "address": "万航渡路713-1号楼1楼"}
+{"comment_number": "4612", "environment": "8.7", "avg_price": "116", "service": "8.4", "waste": "8.2", "shop_name": "彼德西餐(月星环球港店)", "address": "中山北路3300号环球港中央广场4层"}
+{"comment_number": "135", "environment": "8.6", "avg_price": "21", "service": "8.8", "waste": "8.3", "shop_name": "大苑子(环球港店)", "address": "中山北路3300号环球港B1层B1172"}
+{"comment_number": "2927", "environment": "8.6", "avg_price": "100", "service": "8.7", "waste": "8.4", "shop_name": "寿司王子(近铁城市广场店)", "address": "真北路818号近铁城市广场北区3层"}
+{"comment_number": "73", "environment": "7.9", "avg_price": "101", "service": "8.4", "waste": "8.6", "shop_name": "颐品居", "address": "长寿路822弄97号汇丽花园底商"}
+{"comment_number": "18", "environment": "8.3", "avg_price": "142", "service": "8.6", "waste": "8.6", "shop_name": "兜约·下饭菜(北石路店)", "address": "中山北路3323号3号商铺"}
+{"comment_number": "76", "environment": "9.1", "avg_price": "33", "service": "9.1", "waste": "9.0", "shop_name": "Little Phresh小倾芯鲜辣烫(中江路店)", "address": "中江路889弄乐活天地1-8室"}
+{"comment_number": "9621", "environment": "8.2", "avg_price": "106", "service": "7.8", "waste": "8.2", "shop_name": "PANKOO釜山料理(环球港店)", "address": "中山北路3300号环球港B1层B1062"}
+{"comment_number": "85", "environment": "8.2", "avg_price": "85", "service": "8.4", "waste": "9.0", "shop_name": "云情鱼意云南蒸汽石锅鱼(真北路店)", "address": "桃浦路328号"}
+{"comment_number": "1405", "environment": "9.0", "avg_price": "140", "service": "8.4", "waste": "7.9", "shop_name": "上海圣诺亚皇冠假日酒店 诺亚厨房", "address": "金沙江路1699号1楼"}
+{"comment_number": "1428", "environment": "9.1", "avg_price": "241", "service": "8.8", "waste": "7.9", "shop_name": "新发展亚太JW万豪酒店福苑咖啡厅", "address": "大渡河路158号新发展亚太JW万豪酒店1楼"}
+{"comment_number": "1279", "environment": "8.0", "avg_price": "84", "service": "8.1", "waste": "8.3", "shop_name": "撸串儿(凯旋路店)", "address": "凯旋北路1772号"}
+{"avg_price": "20", "service": "6.8", "comment_number": "2514", "shop_name": "分类:", "address": "石泉路72号", "environment": "6.8", "waste": "8.3"}
+{"avg_price": "66", "service": "8.7", "comment_number": "69", "shop_name": "咖年华", "address": "曹杨路汇融大厦2层205", "environment": "9.0", "waste": "8.9"}
+{"avg_price": "82", "service": "8.6", "comment_number": "1548", "shop_name": "云之缘云南民族菜(梅川路店)", "address": "梅川路1378号", "environment": "8.9", "waste": "8.4"}
+{"avg_price": "67", "service": "8.1", "comment_number": "495", "shop_name": "关东小磨(百联中环店)", "address": "真光路1288号百联中环购物广场A区4层", "environment": "8.4", "waste": "8.0"}
+{"avg_price": "65", "service": "8.7", "comment_number": "49", "shop_name": "渝小辣", "address": "新会路139号", "environment": "8.9", "waste": "8.6"}
+{"avg_price": "63", "service": "8.3", "comment_number": "1441", "shop_name": "PONY(品尊和美广场店)", "address": "铜川路66-6号品尊和美广场B1层", "environment": "8.2", "waste": "8.7"}
+{"avg_price": "101", "service": "8.9", "comment_number": "922", "shop_name": "杨记齐齐哈尔烤肉(总店)", "address": "绿杨路31号", "environment": "8.1", "waste": "8.9"}
+{"avg_price": "126", "service": "8.3", "comment_number": "4426", "shop_name": "潮州府砂锅粥(近铁城市广场店)", "address": "真北路858号近铁城市广场北区3层", "environment": "8.5", "waste": "8.4"}
+{"avg_price": "89", "service": "8.1", "comment_number": "6181", "shop_name": "澳门制造(澳门路店)", "address": "澳门路339号", "environment": "8.5", "waste": "8.2"}
+{"avg_price": "97", "service": "8.7", "comment_number": "1005", "shop_name": "云海肴云南菜(近铁城市广场店)", "address": "真北路858号近铁城市广场北座2层", "environment": "8.7", "waste": "8.2"}
+{"avg_price": "42", "service": "8.5", "comment_number": "1374", "shop_name": "和府捞面(环球港店)", "address": "中山北路3300号环球港B1-239", "environment": "8.5", "waste": "8.1"}
+{"avg_price": "63", "service": "8.2", "comment_number": "339", "shop_name": "布歌东京(月星环球港店)", "address": "中山北路3300号月星环球港B1-180室", "environment": "8.3", "waste": "8.2"}
+{"avg_price": "109", "service": "8.7", "comment_number": "491", "shop_name": "沁椰四季椰子鸡火锅", "address": "长寿路868号中港汇大厦2楼", "environment": "8.6", "waste": "8.4"}
+{"avg_price": "66", "service": "8.7", "comment_number": "69", "shop_name": "中江食堂日本料理", "address": "中江路889号乐活天地广场二楼", "environment": "8.9", "waste": "8.6"}
+{"avg_price": "114", "service": "9.0", "comment_number": "817", "shop_name": "蟹乐客秘制锅物料理", "address": "长寿路946号", "environment": "8.7", "waste": "8.7"}
+{"waste": "8.9", "shop_name": "分类:", "address": "长宁路88号KiNG88商场四楼", "comment_number": "36", "avg_price": "116", "service": "8.4", "environment": "8.7"}
+{"waste": "8.2", "shop_name": "蜀哥火锅", "address": "中山北路3058号", "comment_number": "1023", "avg_price": "95", "service": "8.4", "environment": "8.3"}
+{"waste": "8.5", "shop_name": "本清素我家酸菜鱼(我格广场)", "address": "武宁路101号我格广场5楼01/02/11", "comment_number": "142", "avg_price": "87", "service": "8.4", "environment": "8.5"}
+{"waste": "9.0", "shop_name": "Sizzling滋滋牛排屋(新邻天地店)", "address": "武威路1285号新邻天地1层", "comment_number": "131", "avg_price": "83", "service": "9.0", "environment": "8.7"}
+{"waste": "9.0", "shop_name": "Hicoffee", "address": "梅川路1337号3楼", "comment_number": "64", "avg_price": "40", "service": "9.1", "environment": "9.0"}
+{"waste": "8.8", "shop_name": "Double Win Cafe(悦达889店)", "address": "万航渡路889号悦达889广场B1", "comment_number": "224", "avg_price": "22", "service": "9.0", "environment": "8.2"}
+{"waste": "8.2", "shop_name": "又见鱼(安远路旗舰店)", "address": "安远路526号近胶州路口", "comment_number": "5530", "avg_price": "97", "service": "8.5", "environment": "8.4"}
+{"waste": "8.4", "shop_name": "琼州黎民海南椰子鸡", "address": "金沙江路2239弄金沙和美广场1楼", "comment_number": "961", "avg_price": "103", "service": "8.6", "environment": "8.6"}
+{"waste": "8.2", "shop_name": "辛都SINNDU・麻辣香锅小馆(环球港店)", "address": "中山北路3300号环球港花园大厅B2层B2143", "comment_number": "985", "avg_price": "49", "service": "8.3", "environment": "8.4"}
+{"waste": "8.7", "shop_name": "甜问·香草甜品(近铁城市广场店)", "address": "真北路818号近铁城市广场北区B2层", "comment_number": "1367", "avg_price": "33", "service": "8.5", "environment": "8.5"}
+{"waste": "8.9", "shop_name": "OZ MADE澳思牛排(189弄购物中心店)", "address": "长寿路189弄189弄购物中心B1层", "comment_number": "247", "avg_price": "111", "service": "8.7", "environment": "8.2"}
+{"waste": "8.3", "shop_name": "Awfully Chocolate(环球港店)", "address": "中山北路3300号环球港太阳大厅B2层170-171室", "comment_number": "3492", "avg_price": "48", "service": "7.7", "environment": "8.1"}
+{"waste": "7.7", "shop_name": "彩泥·云南菜-西双版纳(环球港店)", "address": "中山北路3300号环球港太阳大厅3层L3161", "comment_number": "4742", "avg_price": "98", "service": "7.9", "environment": "8.4"}
+{"waste": "7.4", "shop_name": "红子鸡(澳门路店)", "address": "澳门路188号", "comment_number": "3823", "avg_price": "143", "service": "7.4", "environment": "7.4"}
+{"waste": "8.0", "shop_name": "西堤厚牛排(上海中环百联店)", "address": "真光路1288号百联中环购物广场B区3层007室", "comment_number": "3807", "avg_price": "157", "service": "8.1", "environment": "8.6"}
+{"avg_price": "87", "service": "8.3", "comment_number": "447", "shop_name": "分类:", "address": "西康路1137号", "environment": "8.1", "waste": "8.1"}
+{"avg_price": "74", "service": "8.3", "comment_number": "558", "shop_name": "百素·我家酸菜鱼(李子园店)", "address": "交通路4652号", "environment": "8.6", "waste": "8.6"}
+{"avg_price": "48", "service": "6.5", "comment_number": "2749", "shop_name": "真如羊肉馆", "address": "寺前街1号", "environment": "6.7", "waste": "8.1"}
+{"avg_price": "255", "service": "7.7", "comment_number": "3120", "shop_name": "鱼家自助料理(近铁城市广场店)", "address": "真北路818号近铁城市广场北区2层", "environment": "8.3", "waste": "8.1"}
+{"avg_price": "216", "service": "8.2", "comment_number": "5916", "shop_name": "OUTBACK澳拜客(环球港店)", "address": "中山北路3300号环球港太阳大厅4层L117-L120", "environment": "8.6", "waste": "7.8"}
+{"avg_price": "22", "service": "8.7", "comment_number": "61", "shop_name": "粉番喜螺蛳粉", "address": "曹杨路555号汇融天地B1-07", "environment": "7.4", "waste": "8.4"}
+{"avg_price": "74", "service": "8.4", "comment_number": "530", "shop_name": "Kepler Coffee", "address": "中山北路1958号华源世界广场内1楼", "environment": "8.1", "waste": "8.0"}
+{"avg_price": "29", "service": "8.3", "comment_number": "3457", "shop_name": "寶珠奶酪(月星环球港店)", "address": "中山北路3300号月星环球港B1016", "environment": "8.5", "waste": "8.4"}
+{"avg_price": "76", "service": "8.3", "comment_number": "548", "shop_name": "龙窑砂锅串串香(亚新广场店)", "address": "新会路393号", "environment": "8.3", "waste": "8.6"}
+{"avg_price": "89", "service": "8.3", "comment_number": "1035", "shop_name": "小鲜肉烧烤铺(纬陆时尚广场店)", "address": "常德路1235号长寿路地铁站1号口", "environment": "8.3", "waste": "8.4"}
+{"avg_price": "87", "service": "7.4", "comment_number": "6917", "shop_name": "三人行骨头王火锅(长寿店)", "address": "长寿路505弄6号", "environment": "6.9", "waste": "7.7"}
+{"avg_price": "51", "service": "7.9", "comment_number": "1962", "shop_name": "Godiva(月星环球港)", "address": "中山北路3300号环球港太阳大厅1层L1105号", "environment": "8.5", "waste": "8.5"}
+{"avg_price": "235", "service": "8.0", "comment_number": "2305", "shop_name": "苏浙汇(绿洲中环店)", "address": "金沙江路1628弄绿洲中环中心2号3-4楼", "environment": "8.6", "waste": "8.1"}
+{"avg_price": "136", "service": "8.8", "comment_number": "36", "shop_name": "山久", "address": "新会路139号-5", "environment": "8.6", "waste": "8.4"}
+{"avg_price": "203", "service": "8.3", "comment_number": "1396", "shop_name": "御锅宴蒸汽海鲜火锅时尚餐厅", "address": "西康路1068号", "environment": "8.6", "waste": "8.6"}
+{"waste": "8.6", "shop_name": "分类:", "address": "新会路52弄6号", "comment_number": "1878", "avg_price": "110", "service": "8.3", "environment": "8.0"}
+{"waste": "7.8", "shop_name": "HONEYEAST 蜂酿软欧面包(西康店)", "address": "长寿路189弄", "comment_number": "109", "avg_price": "42", "service": "8.4", "environment": "8.4"}
+{"waste": "8.0", "shop_name": "好鸡烩", "address": "长寿路1003号", "comment_number": "433", "avg_price": "70", "service": "8.0", "environment": "7.9"}
+{"waste": "7.9", "shop_name": "莱歌西餐厅(月星环球港店)", "address": "中山北路3300号环球港花园大厅3层L3049", "comment_number": "1890", "avg_price": "147", "service": "8.5", "environment": "8.4"}
+{"waste": "8.3", "shop_name": "MON MONDE(环球港店)", "address": "中山北路3300号环球港中央广场B1层B1053", "comment_number": "86", "avg_price": "24", "service": "8.6", "environment": "8.0"}
+{"waste": "8.5", "shop_name": "融诚之·川东大院(长风大悦城店)", "address": "大渡河路196号长风大悦城4层", "comment_number": "3147", "avg_price": "111", "service": "7.8", "environment": "8.5"}
+{"waste": "8.7", "shop_name": "唐宋小馆", "address": "莫干山路50号M50创意园8号楼", "comment_number": "44", "avg_price": "574", "service": "8.6", "environment": "8.5"}
+{"waste": "7.9", "shop_name": "稻香(长宁88广场店)", "address": "长宁路88号KiNG88商场三层3-01室", "comment_number": "216", "avg_price": "95", "service": "7.8", "environment": "8.2"}
+{"waste": "8.0", "shop_name": "老十七火锅(近铁城市广场店)", "address": "真北路858号近铁城市广场南座4层", "comment_number": "1816", "avg_price": "136", "service": "8.3", "environment": "8.5"}
+{"waste": "8.5", "shop_name": "hotfow火釜炸鸡(环球港店)", "address": "中山北路3300号环球港B2层南洋小镇8号铺", "comment_number": "665", "avg_price": "40", "service": "8.3", "environment": "7.7"}
+{"waste": "8.9", "shop_name": "鼎中鼎澳门豆捞(甘泉店)", "address": "平利路18号", "comment_number": "2830", "avg_price": "101", "service": "8.9", "environment": "9.0"}
+{"waste": "8.2", "shop_name": "品尊轩(铜川路店)", "address": "铜川路50号明捷万丽酒店2楼", "comment_number": "407", "avg_price": "356", "service": "8.2", "environment": "9.0"}
+{"waste": "7.7", "shop_name": "祥祥栗子", "address": "长寿路285号", "comment_number": "993", "avg_price": "16", "service": "7.3", "environment": "7.1"}
+{"waste": "8.6", "shop_name": "品鲜.我家酸菜鱼(凯旋北路店)", "address": "凯旋北路1111号环球港旁", "comment_number": "130", "avg_price": "92", "service": "8.7", "environment": "8.1"}
+{"waste": "8.2", "shop_name": "田园山禮椰子鸡轻火锅", "address": "常德路1235号", "comment_number": "1189", "avg_price": "126", "service": "8.6", "environment": "8.1"}
